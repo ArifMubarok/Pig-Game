@@ -19,4 +19,4 @@ Peraturan :
  - Player yang mengocok dadu dan mendapatkan angka 1 maka point sementara akan hilang
  - Player akan menang jika score mencapai 100
 
-Note: I made this project as a form of learning from a course I took on a website, namely Udemy.com
+Note: I made this project as a form of learning from a course that I took on a website, namely Udemy.com
